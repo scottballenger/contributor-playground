@@ -1,1 +1,0 @@
-Hello K8S!
